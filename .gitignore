@@ -1,0 +1,16 @@
+#python:
+*.py[cod]
+*.so
+*.egg
+*.egg-info
+dist
+build
+.idea
+.DS_Store
+venv
+.venv
+.scannerwork
+log
+session
+Pipfile
+Pipfile.lock
